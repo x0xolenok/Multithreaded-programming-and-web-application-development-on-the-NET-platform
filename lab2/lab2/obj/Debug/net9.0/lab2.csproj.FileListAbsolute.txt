@@ -1,0 +1,15 @@
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\bin\Debug\net9.0\lab2.exe
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\bin\Debug\net9.0\lab2.deps.json
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\bin\Debug\net9.0\lab2.runtimeconfig.json
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\bin\Debug\net9.0\lab2.dll
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\bin\Debug\net9.0\lab2.pdb
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\obj\Debug\net9.0\lab2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\obj\Debug\net9.0\lab2.AssemblyInfoInputs.cache
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\obj\Debug\net9.0\lab2.AssemblyInfo.cs
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\obj\Debug\net9.0\lab2.csproj.CoreCompileInputs.cache
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\obj\Debug\net9.0\lab2.sourcelink.json
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\obj\Debug\net9.0\lab2.dll
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\obj\Debug\net9.0\refint\lab2.dll
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\obj\Debug\net9.0\lab2.pdb
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\obj\Debug\net9.0\lab2.genruntimeconfig.cache
+E:\Multithreaded programming and web application development on the NET platform\lab2\lab2\obj\Debug\net9.0\ref\lab2.dll

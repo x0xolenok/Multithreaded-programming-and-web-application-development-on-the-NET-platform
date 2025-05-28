@@ -1,0 +1,17 @@
+﻿@model lab7.Models.IntegrationModel
+@using System.Globalization
+
+@{
+    ViewData["Title"] = "Integration Result";
+}
+
+<h2>Integration Result</h2>
+
+<p>
+    The integral of <strong>Log10(x) * x + 2 * x + 1</strong> from <strong>@Model.LowerLimit.ToString(CultureInfo.InvariantCulture)</strong> to <strong>@Model.UpperLimit.ToString(CultureInfo.InvariantCulture)</strong>
+    using <strong>@Model.SubIntervals</strong> sub-intervals is:
+</p>
+
+<h3><strong>@Model.Result.ToString(CultureInfo.InvariantCulture)</strong></h3>
+
+<a asp-action="Index" class="btn btn-secondary mt-3">Back to Calculator</a>

@@ -1,0 +1,28 @@
+﻿@model lab7.Models.IntegrationModel
+
+@{
+    ViewData["Title"] = "Trapezoidal Integral Calculator Log10(x) * x + 2 * x + 1";
+}
+
+<h2>Trapezoidal Integral Calculator Log10(x) * x + 2 * x + 1</h2>
+
+<form asp-action="Calculate" asp-controller="Integration" method="post">
+    <div>
+        @Html.LabelFor(model => model.LowerLimit)
+        <input asp-for="LowerLimit" class="form-control" type="number" step="any" />
+        <span asp-validation-for="LowerLimit" class="text-danger"></span>
+    </div>
+    <div>
+        @Html.LabelFor(model => model.UpperLimit)
+        <input asp-for="UpperLimit" class="form-control" type="number" step="any" />
+        <span asp-validation-for="UpperLimit" class="text-danger"></span>
+    </div>
+    <div>
+        @Html.LabelFor(model => model.SubIntervals)
+        <input asp-for="SubIntervals" class="form-control" type="number" />
+        <span asp-validation-for="SubIntervals" class="text-danger"></span>
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary mt-3">Calculate</button>
+    </div>
+</form>

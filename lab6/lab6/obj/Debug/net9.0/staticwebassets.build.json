@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "0Z2FCkEd31oR4gDdR+Y5My1gqE+K50hZhqmELKHvhQ4=",
+  "Source": "lab6",
+  "BasePath": "_content/lab6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "lab6\\wwwroot",
+      "Source": "lab6",
+      "ContentRoot": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\wwwroot\\",
+      "BasePath": "_content/lab6",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\obj\\Debug\\net9.0\\compressed\\ayz49murrn-tkwbk7p5u8.gz",
+      "SourceId": "lab6",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "index#[.{fingerprint=tkwbk7p5u8}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "oje3fsnngy",
+      "Integrity": "nARpJT1TchKqqqHCDNWbrNFV0tknjjkez2UoGF60tg8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\obj\\Debug\\net9.0\\compressed\\utxrlpghfr-t3fj32pag6.gz",
+      "SourceId": "lab6",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "result#[.{fingerprint=t3fj32pag6}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\wwwroot\\result.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3lyryzg35n",
+      "Integrity": "13UMGZa9oRRfIKazX39AojgrFoYJbyx7TtGD67AAX3o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\wwwroot\\result.html"
+    },
+    {
+      "Identity": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\wwwroot\\index.html",
+      "SourceId": "lab6",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\wwwroot\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tkwbk7p5u8",
+      "Integrity": "U6auXTJhKWT15GUh16xiSWWCPXlFKZslSVLO2qQp00w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\wwwroot\\result.html",
+      "SourceId": "lab6",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\wwwroot\\",
+      "BasePath": "_content/lab6",
+      "RelativePath": "result#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "t3fj32pag6",
+      "Integrity": "x/HwX0cBvcXRZ6ymYZ5zMfMAyRZh+BrbIkadQsBxoXg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\result.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\obj\\Debug\\net9.0\\compressed\\ayz49murrn-tkwbk7p5u8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003703703704"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "269"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nARpJT1TchKqqqHCDNWbrNFV0tknjjkez2UoGF60tg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 18:43:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"U6auXTJhKWT15GUh16xiSWWCPXlFKZslSVLO2qQp00w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U6auXTJhKWT15GUh16xiSWWCPXlFKZslSVLO2qQp00w="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U6auXTJhKWT15GUh16xiSWWCPXlFKZslSVLO2qQp00w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 18:43:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U6auXTJhKWT15GUh16xiSWWCPXlFKZslSVLO2qQp00w="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\obj\\Debug\\net9.0\\compressed\\ayz49murrn-tkwbk7p5u8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "269"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nARpJT1TchKqqqHCDNWbrNFV0tknjjkez2UoGF60tg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 18:43:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nARpJT1TchKqqqHCDNWbrNFV0tknjjkez2UoGF60tg8="
+        }
+      ]
+    },
+    {
+      "Route": "index.tkwbk7p5u8.html",
+      "AssetFile": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\obj\\Debug\\net9.0\\compressed\\ayz49murrn-tkwbk7p5u8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003703703704"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "269"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nARpJT1TchKqqqHCDNWbrNFV0tknjjkez2UoGF60tg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 18:43:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"U6auXTJhKWT15GUh16xiSWWCPXlFKZslSVLO2qQp00w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tkwbk7p5u8"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U6auXTJhKWT15GUh16xiSWWCPXlFKZslSVLO2qQp00w="
+        }
+      ]
+    },
+    {
+      "Route": "index.tkwbk7p5u8.html",
+      "AssetFile": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U6auXTJhKWT15GUh16xiSWWCPXlFKZslSVLO2qQp00w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 18:43:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tkwbk7p5u8"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U6auXTJhKWT15GUh16xiSWWCPXlFKZslSVLO2qQp00w="
+        }
+      ]
+    },
+    {
+      "Route": "index.tkwbk7p5u8.html.gz",
+      "AssetFile": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\obj\\Debug\\net9.0\\compressed\\ayz49murrn-tkwbk7p5u8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "269"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nARpJT1TchKqqqHCDNWbrNFV0tknjjkez2UoGF60tg8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 18:43:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tkwbk7p5u8"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nARpJT1TchKqqqHCDNWbrNFV0tknjjkez2UoGF60tg8="
+        }
+      ]
+    },
+    {
+      "Route": "result.html",
+      "AssetFile": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\obj\\Debug\\net9.0\\compressed\\utxrlpghfr-t3fj32pag6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"13UMGZa9oRRfIKazX39AojgrFoYJbyx7TtGD67AAX3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 18:43:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x/HwX0cBvcXRZ6ymYZ5zMfMAyRZh+BrbIkadQsBxoXg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/HwX0cBvcXRZ6ymYZ5zMfMAyRZh+BrbIkadQsBxoXg="
+        }
+      ]
+    },
+    {
+      "Route": "result.html",
+      "AssetFile": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\wwwroot\\result.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "291"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x/HwX0cBvcXRZ6ymYZ5zMfMAyRZh+BrbIkadQsBxoXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 18:43:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/HwX0cBvcXRZ6ymYZ5zMfMAyRZh+BrbIkadQsBxoXg="
+        }
+      ]
+    },
+    {
+      "Route": "result.html.gz",
+      "AssetFile": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\obj\\Debug\\net9.0\\compressed\\utxrlpghfr-t3fj32pag6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"13UMGZa9oRRfIKazX39AojgrFoYJbyx7TtGD67AAX3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 18:43:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-13UMGZa9oRRfIKazX39AojgrFoYJbyx7TtGD67AAX3o="
+        }
+      ]
+    },
+    {
+      "Route": "result.t3fj32pag6.html",
+      "AssetFile": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\obj\\Debug\\net9.0\\compressed\\utxrlpghfr-t3fj32pag6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005000000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"13UMGZa9oRRfIKazX39AojgrFoYJbyx7TtGD67AAX3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 18:43:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"x/HwX0cBvcXRZ6ymYZ5zMfMAyRZh+BrbIkadQsBxoXg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t3fj32pag6"
+        },
+        {
+          "Name": "label",
+          "Value": "result.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/HwX0cBvcXRZ6ymYZ5zMfMAyRZh+BrbIkadQsBxoXg="
+        }
+      ]
+    },
+    {
+      "Route": "result.t3fj32pag6.html",
+      "AssetFile": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\wwwroot\\result.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "291"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"x/HwX0cBvcXRZ6ymYZ5zMfMAyRZh+BrbIkadQsBxoXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 18:43:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t3fj32pag6"
+        },
+        {
+          "Name": "label",
+          "Value": "result.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-x/HwX0cBvcXRZ6ymYZ5zMfMAyRZh+BrbIkadQsBxoXg="
+        }
+      ]
+    },
+    {
+      "Route": "result.t3fj32pag6.html.gz",
+      "AssetFile": "E:\\Multithreaded programming and web application development on the NET platform\\lab6\\lab6\\obj\\Debug\\net9.0\\compressed\\utxrlpghfr-t3fj32pag6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "199"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"13UMGZa9oRRfIKazX39AojgrFoYJbyx7TtGD67AAX3o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 18:43:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "t3fj32pag6"
+        },
+        {
+          "Name": "label",
+          "Value": "result.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-13UMGZa9oRRfIKazX39AojgrFoYJbyx7TtGD67AAX3o="
+        }
+      ]
+    }
+  ]
+}

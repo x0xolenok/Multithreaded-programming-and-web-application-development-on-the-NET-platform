@@ -1,0 +1,18 @@
+﻿@model lab8.Models.SortModel
+
+@{
+    ViewData["Title"] = "Bubble Sort Application";
+}
+
+<h2>Bubble Sort Application</h2>
+
+<form asp-action="Sort" method="post">
+    <div class="form-group">
+        @Html.LabelFor(m => m.InputNumbers)
+        <input asp-for="InputNumbers" class="form-control" type="text" placeholder="e.g., 3.5, 1.2, 4.8, 2.9, 0.5" />
+        <span asp-validation-for="InputNumbers" class="text-danger"></span>
+    </div>
+    <div>
+        <button type="submit" class="btn btn-primary mt-3">Sort Numbers</button>
+    </div>
+</form>

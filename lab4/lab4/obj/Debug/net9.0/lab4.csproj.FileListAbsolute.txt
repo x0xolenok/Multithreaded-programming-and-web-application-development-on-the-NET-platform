@@ -1,0 +1,15 @@
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\bin\Debug\net9.0\lab4.exe
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\bin\Debug\net9.0\lab4.deps.json
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\bin\Debug\net9.0\lab4.runtimeconfig.json
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\bin\Debug\net9.0\lab4.dll
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\bin\Debug\net9.0\lab4.pdb
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\obj\Debug\net9.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\obj\Debug\net9.0\lab4.AssemblyInfoInputs.cache
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\obj\Debug\net9.0\lab4.AssemblyInfo.cs
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\obj\Debug\net9.0\lab4.csproj.CoreCompileInputs.cache
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\obj\Debug\net9.0\lab4.sourcelink.json
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\obj\Debug\net9.0\lab4.dll
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\obj\Debug\net9.0\refint\lab4.dll
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\obj\Debug\net9.0\lab4.pdb
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\obj\Debug\net9.0\lab4.genruntimeconfig.cache
+E:\Multithreaded programming and web application development on the NET platform\lab4\lab4\obj\Debug\net9.0\ref\lab4.dll

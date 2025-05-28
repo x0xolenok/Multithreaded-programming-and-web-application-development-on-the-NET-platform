@@ -1,0 +1,12 @@
+﻿@model lab8.Models.SortModel
+
+@{
+    ViewData["Title"] = "Sorting Result";
+}
+
+<h2>Sorting Result</h2>
+
+<p><strong>Original Numbers:</strong> @Model.OriginalNumbers</p>
+<p><strong>Sorted Numbers:</strong> @string.Join(", ", Model.SortedNumbers.Select(n => n.ToString(System.Globalization.CultureInfo.InvariantCulture)))</p>
+
+<a asp-action="Index" class="btn btn-secondary mt-3">Back to Sorting</a>
